@@ -13,7 +13,7 @@ $ ./parser <path to file>
 
 ## Example
 ```bash
-$ ./parse example
+$ ./parse ./example
 [*] ELF header
 Magic: 7f 45 4c 46 02 01 01 00 00 00 00 00 00 00 00 00
 Type: 3
