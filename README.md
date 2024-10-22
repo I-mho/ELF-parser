@@ -8,7 +8,7 @@ gcc -o parse parse.c
 
 ## Usage
 ```bash
-./parser <path to file>
+./parse <path to file>
 ```
 
 ## Example
